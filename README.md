@@ -1,7 +1,8 @@
 # StellarClips - Micro-Payments Platform for Content Creators
 
 <div align="center">
-  <img src="/stellarclips-logo.png" alt="StellarClips Logo" width="200"/>
+  <!-- Using full blob URL for StellarClips logo so it displays on GitHub -->
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Gemini_Generated_Image_fyjby2fyjby2fyjb-ml3FynuMx2aVQ0W1mAnw3EyxV49cle.png" alt="StellarClips Logo" width="200"/>
   
   # StellarClips
   ### Micro-Payments Platform for Content Creators
@@ -19,13 +20,12 @@
 **StellarClips** is a revolutionary decentralized platform built on the Stellar blockchain that empowers content creators to monetize their work through micro-payments, subscriptions, and direct tips. With ultra-low fees and instant settlements, creators can finally earn what they deserve.
 
 <div align="center">
-  <img src="/stellar-logo.png" alt="Powered by Stellar" width="30"/>
+  <!-- Using full blob URL for Stellar logo so it displays on GitHub -->
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/7386716-KM6VnBlIw2oiRrvx88LVW16kCjmNVV.png" alt="Powered by Stellar" width="30"/>
   <strong>Powered by Stellar Blockchain</strong>
 </div>
 
 ---
-
-A decentralized platform built on Stellar blockchain that enables content creators to monetize their work through micro-payments, subscriptions, and tips.
 
 ## ✨ Key Features
 
@@ -526,7 +526,8 @@ For questions and support, please open an issue on GitHub.
 ---
 
 <div align="center">
-  <img src="/stellar-logo.png" alt="Stellar" width="24"/>
+  <!-- Using full blob URL for Stellar logo in footer -->
+  <img src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/7386716-KM6VnBlIw2oiRrvx88LVW16kCjmNVV.png" alt="Stellar" width="24"/>
   <p><strong>Built with ❤️ on Stellar Blockchain</strong></p>
   <p>© 2025 StellarClips. All rights reserved.</p>
 </div>
